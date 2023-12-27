@@ -8,6 +8,7 @@ I'm a polyglot who has worked on projects where I utulized the following technol
 - KendoUI
 - Jenkins
 - Ansible
+- SQL databases
 
 
 Founder of <a href="https://www.runtimeacademy.com" target="_blank">RuntimeAcademy.com</a>
