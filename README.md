@@ -10,12 +10,12 @@ I'm a polyglot who has worked on projects where I utulized the following technol
 - Ansible
 - SQL databases
 
-
+<br>
 Founder of <a href="https://www.runtimeacademy.com" target="_blank">RuntimeAcademy.com</a>
-  - Using <a href="https://github.com/pieroproietti/penguins-eggs">Penguin-Eggs</a> to create a custom linux distro
 
-
+<br>
+<br>
 I'm also a:
 - Musician
 - Composer
-- Poker enthusiast
+- ♠️ Poker enthusiast
