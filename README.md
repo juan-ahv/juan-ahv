@@ -5,7 +5,7 @@ I'm a polyglot who has worked on projects where I utulized the following technol
 - .Net
 - Python
 - Angular
-- KendoUI
+- KendoUI (jQuery)
 - Jenkins
 - Ansible
 - SQL databases
