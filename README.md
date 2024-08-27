@@ -1,6 +1,6 @@
 # Hello, I'm Juan! 👋
 
-I'm a polyglot who has worked on projects where I utilized the following technologies:
+I'm an experienced developer who has worked on projects where I utilized the following technologies:
 - Java
 - .Net
 - Python
