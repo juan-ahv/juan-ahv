@@ -9,8 +9,7 @@ I'm an experienced developer who has worked on projects where I utilized the fol
 - Jenkins
 - Ansible
 - SQL databases
-
-Founder of <a href="https://www.runtimeacademy.com" target="_blank">RuntimeAcademy.com</a>
+- WASP
 
 I'm also a:
 - 🎸 Musician
