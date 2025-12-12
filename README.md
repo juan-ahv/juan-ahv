@@ -7,12 +7,10 @@ Current work stack:
 - Angular 20
 - CockroachDB
 <br></br>
-<br></br>
 
 I'm currently building my own saas [chordamigo.com](https://chordamigo.com) using:
 - [OpenSaaS](opensaas.sh) by [Wasp](wasp.sh)
   
-<br></br>
 <br></br>
 I'm also a:
 - 🎸 Musician
