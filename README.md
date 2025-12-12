@@ -8,8 +8,9 @@ Current work stack:
 - CockroachDB
 
 I'm currently building my own saas [chordamigo.com](https://chordamigo.com) using:
-- [OpenSaaS](opensaas.sh) by [WASP](wasp.sh)
-  
+- [OpenSaaS](opensaas.sh) by [Wasp](wasp.sh)
+
+    
 
 I'm also a:
 - 🎸 Musician
